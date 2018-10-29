@@ -1,5 +1,3 @@
-# ToolKit
-<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/lifaqi/ToolKit.svg?style=flat)](https://travis-ci.org/lifaqi/ToolKit)
 [![Version](https://img.shields.io/cocoapods/v/ToolKit.svg?style=flat)](https://cocoapods.org/pods/ToolKit)
@@ -28,6 +26,4 @@ lifaqi, lfqswy@gmail.com
 ## License
 
 ToolKit is available under the MIT license. See the LICENSE file for more info.
-=======
-项目常用到的一些值和方法
->>>>>>> 4100445da22914b6a8b49c130bea8963749479e9
+
