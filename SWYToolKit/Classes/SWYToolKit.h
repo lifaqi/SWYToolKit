@@ -1,5 +1,5 @@
 //
-//  ToolKit.h
+//  SWYToolKit.h
 //  SWYDateTimePickerView
 //
 //  Created by 淘翼购 on 2018/10/17.
@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ToolKit : NSObject
+@interface SWYToolKit : NSObject
 
 #pragma mark - view
 /// 判断UIView是否在滚动

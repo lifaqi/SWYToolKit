@@ -1,14 +1,14 @@
 //
-//  ToolKit.m
+//  SWYToolKit.m
 //  SWYDateTimePickerView
 //
 //  Created by 淘翼购 on 2018/10/17.
 //  Copyright © 2018年 shenwuyue. All rights reserved.
 //
 
-#import "ToolKit.h"
+#import "SWYToolKit.h"
 
-@implementation ToolKit
+@implementation SWYToolKit
 
 #pragma mark - view
 +(BOOL)anySubViewScrolling:(UIView *)view{
