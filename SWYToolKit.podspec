@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SWYToolKit'
-  s.version          = '0.1.5'
+  s.version          = '0.1.6'
   s.summary          = 'SWYToolKit常用值和方法'
 
 # This description is used to generate tags and improve search results.
@@ -36,6 +36,7 @@ TODO: Add long description of the pod here.
   #   'SWYToolKit' => ['SWYToolKit/Assets/*.png']
   # }
 
+    s.dependency 'SWYCommonDef', '~> 0.1.3'
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
