@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SWYToolKit'
-  s.version          = '0.1.22'
+  s.version          = '0.1.23'
   s.summary          = 'SWYToolKit常用值和方法'
 
 # This description is used to generate tags and improve search results.
