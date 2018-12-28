@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SWYToolKit'
-  s.version          = '0.1.18'
+  s.version          = '0.1.19'
   s.summary          = 'SWYToolKit常用值和方法'
 
 # This description is used to generate tags and improve search results.
@@ -30,6 +30,9 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
+  # Frameworks路径
+  s.ios.vendored_frameworks = 'Frameworks/SWYToolKit.framework'
+
   s.source_files = 'SWYToolKit/Classes/**/*'
   
   # s.resource_bundles = {
@@ -37,6 +40,7 @@ TODO: Add long description of the pod here.
   # }
 
     s.dependency 'SWYCommonDef', '~> 0.1.3'
+    s.frameworks = 'SWYToolKit'
   # s.public_header_files = 'Pod/Classes/**/*.h'
   # s.frameworks = 'UIKit', 'MapKit'
   # s.dependency 'AFNetworking', '~> 2.3'
