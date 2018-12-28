@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SWYToolKit'
-  s.version          = '0.1.20'
+  s.version          = '0.1.21'
   s.summary          = 'SWYToolKit常用值和方法'
 
 # This description is used to generate tags and improve search results.
@@ -33,7 +33,7 @@ TODO: Add long description of the pod here.
   # Frameworks路径
   s.ios.vendored_frameworks = 'Frameworks/SWYToolKit.framework'
 
-  s.source_files = 'SWYToolKit/Classes/**/*'
+  s.source_files = 'SWYToolKit/Classes'
   
   # s.resource_bundles = {
   #   'SWYToolKit' => ['SWYToolKit/Assets/*.png']
