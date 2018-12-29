@@ -14,6 +14,6 @@ FOUNDATION_EXPORT double SWYToolKitVersionNumber;
 //! Project version string for SWYToolKit.
 FOUNDATION_EXPORT const unsigned char SWYToolKitVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <SWYToolKit/PublicHeader.h>
+// In this header, you should import all the public headers of your framework using statements like
 
-//#import <ToolKit/ToolKit.h>
+#import <SWYToolKit/ToolKit.h>
