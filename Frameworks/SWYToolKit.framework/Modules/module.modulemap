@@ -1,0 +1,6 @@
+framework module SWYToolKit {
+  umbrella header "SWYToolKit.h"
+
+  export *
+  module * { export * }
+}
